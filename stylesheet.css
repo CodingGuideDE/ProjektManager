@@ -1,0 +1,39 @@
+.inerdiv{
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px rgb(134, 134, 134);
+    font-size: 25px;
+    margin: 5px;
+    background-color: rgb(228, 246, 252);
+    width: 200px;
+    height: 300px;
+    flex: 1;
+    overflow: auto;
+    text-decoration: underline;
+}
+#outdiv{
+    background-color:lightblue;
+    text-align: center;
+    margin: auto;
+    width: 90%;
+    box-shadow: 5px 5px 5px gray;
+    padding: 25px;
+    border-radius: 15px;
+}
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    text-shadow: 5px 5px 5px gray;
+    text-decoration: underline;
+}
+body{
+    font-family: Ink free;
+}
+button{
+    border-radius: 15px;
+    background-color: rgb(187, 238, 255);
+    font-size: 25px;
+    cursor: pointer;
+}
+#container{
+    display: flex;
+}
